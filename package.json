@@ -9,6 +9,6 @@
   "author": "Haad",
   "license": "MIT",
   "dependencies": {
-    "orbit-db-store": "github:thiagodelgado111/orbit-db-store#fix/sync"
+    "orbit-db-store": "github:orbitdb/orbit-db-store#b5483fe3beec72fb8c98f993ea42b1345467ffd2"
   }
 }
